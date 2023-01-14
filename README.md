@@ -4,6 +4,6 @@
 <br />
 <h2>GitHub User Stats</h2>
 <div style="display: flex; justify-content: center; align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=Tiramitzu&theme=radical&show_icons=true" alt="stat1" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiramitzu&theme=radical" alt="stat2" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tiramitzu&theme=radical&show_icons=true" alt="stat1" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tiramitzu&theme=radical" alt="stat2" />
 </div>
