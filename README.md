@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiramitzu</h1>
 <h3 align="center">Just call me Tira.</h3>
+<h4 align="center">I hate being called my real name online.</h4>
 <br />
 <h2>GitHub User Stats</h2>
 <div style="display: flex; justify-content: center; align-items: center;">
