@@ -59,7 +59,7 @@
 <h3 align="center">WakaTime</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2045%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -106,7 +106,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiramitzu/Tiramitzu/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2024 09:57:34 UTC
+ Last Updated on 01/02/2024 18:32:39 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
