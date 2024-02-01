@@ -52,9 +52,6 @@
 <div align="center">
 <a href="https://github.com/Tiramitzu">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tiramitzu&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tiramitzu&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tiramitzu&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tiramitzu&theme=radical&utcOffset=7" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiramitzu&theme=radical" height="180em" />
 </div>
 
