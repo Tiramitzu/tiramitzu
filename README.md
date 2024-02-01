@@ -57,8 +57,8 @@
 </div>
  
 <h3 align="center">WakaTime</h3>
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2055%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
