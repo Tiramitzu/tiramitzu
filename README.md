@@ -55,7 +55,8 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tiramitzu&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiramitzu&theme=radical" height="180em" />
 </div>
-
+ 
+<h3 align="center">WakaTime</h3>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2055%20mins-blue)
 
