@@ -60,41 +60,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 41.0 kB Used in GitHub's Storage 
- > 
-> 🏆 69 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                360 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-🌆 Daytime                775 commits         ██████████░░░░░░░░░░░░░░░   40.96 % 
-🌃 Evening                619 commits         ████████░░░░░░░░░░░░░░░░░   32.72 % 
-🌙 Night                  138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Tuesday                  223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Wednesday                301 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Thursday                 161 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Friday                   221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Saturday                 492 commits         ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-Sunday                   403 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -140,7 +105,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiramitzu/Tiramitzu/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2024 09:51:29 UTC
+ Last Updated on 01/02/2024 09:57:34 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
