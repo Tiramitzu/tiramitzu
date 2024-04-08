@@ -59,7 +59,7 @@
 <h3 align="center">WakaTime</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2035%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -67,16 +67,24 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     5 hrs 35 mins       ████████████████████░░░░░   80.76 % 
+Groovy                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Properties               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+GitIgnore file           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             6 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+NEW                      2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
+Diswiman                 2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.48 % 
+Skyblocker               2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+DynamicShop3             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+SN-Events                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +104,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiramitzu/Tiramitzu/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2024 18:32:25 UTC
+ Last Updated on 08/04/2024 18:34:23 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
