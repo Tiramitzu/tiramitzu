@@ -59,35 +59,6 @@
 <h3 align="center">WakaTime</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2010%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Java                     6 hrs 45 mins       ████████████████████░░░░░   79.57 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Groovy                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Properties               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-GitIgnore file           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-
-🔥 Editors: 
-Intellijidea             8 hrs 9 mins        ████████████████████████░   96.09 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-
-🐱‍💻 Projects: 
-Skyblocker               2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.21 % 
-Diswiman                 2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.11 % 
-NEW                      2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-notenoughupdates-api     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-DynamicShop3             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-
-💻 Operating System: 
-Windows                  8 hrs 29 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -105,7 +76,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiramitzu/Tiramitzu/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2024 18:51:07 UTC
+ Last Updated on 11/04/2024 18:32:33 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
