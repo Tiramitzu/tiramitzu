@@ -59,34 +59,6 @@
 <h3 align="center">WakaTime</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2034%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-JavaScript               13 hrs 35 mins      ███████████████████░░░░░░   75.11 % 
-TypeScript               2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Docker                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-
-🔥 Editors: 
-VS Code                  18 hrs 5 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-KUN-mod                  5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
-JavaScript               5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-bandrek                  4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-Client                   1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-WuWa-AntiAntiCheat       37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-
-💻 Operating System: 
-Windows                  18 hrs 5 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -104,7 +76,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiramitzu/Tiramitzu/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2024 18:35:13 UTC
+ Last Updated on 15/06/2024 18:34:25 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
