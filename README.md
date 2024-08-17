@@ -63,22 +63,16 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JSON                     22 mins             ███████████░░░░░░░░░░░░░░   43.80 % 
-Other                    12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-JavaScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gamagaming-bot           39 mins             ███████████████████░░░░░░   76.13 % 
-vBot                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-discord-chat-mirror      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,7 +92,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiramitzu/Tiramitzu/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 18:35:54 UTC
+ Last Updated on 17/08/2024 18:34:27 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
