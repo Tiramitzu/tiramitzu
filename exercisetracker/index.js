@@ -47,12 +47,18 @@ app.post("/api/users/:_id/exercises", (req, res) => {
         username: user.username,
         description: description,
         duration: parseInt(duration),
-        date: date || new Date().toDateString()
+        date: date ? new Date(date).toDateString() : new Date().toDateString()
     };
 
     exercises.push(exercise);
 
-    res.json(exercise);
+    res.json({
+        _id: user._id,
+        username: user.username,
+        description: exercise.description,
+        duration: exercise.duration,
+        date: exercise.date
+    });
 });
 
 app.get("/api/users/:_id/logs", (req, res) => {
