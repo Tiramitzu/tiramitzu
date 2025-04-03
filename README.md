@@ -64,21 +64,16 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       2 hrs 11 mins       ██████████████████████░░░   87.98 % 
-TypeScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-master-data              2 hrs 11 mins       ██████████████████████░░░   87.98 % 
-defrans-bot              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-perencanaan-penganggaran 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 11 mins       ██████████████████████░░░   87.98 % 
-Windows                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,7 +93,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiramitzu/Tiramitzu/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2025 18:39:26 UTC
+ Last Updated on 03/04/2025 18:39:06 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
