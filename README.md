@@ -41,9 +41,9 @@
 <p><a href="https://ko-fi.com/tiarar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tiarar" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiramitzu&layout=compact&theme=radical" alt=Tiramitzu />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiramitzu&layout=compact&theme=radical" alt=Tiramitzu />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiramitzu&theme=radical" alt="Tiramitzu" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tiramitzu&theme=radical" alt="Tiramitzu" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
