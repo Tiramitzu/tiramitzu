@@ -56,33 +56,7 @@
 <h3 align="center">WakaTime</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C394%20hrs%2030%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Go                       15 hrs 32 mins      ███████████████░░░░░░░░░░   59.35 % 
-TypeScript               4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-SQL                      3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Makefile                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Prisma                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-
-🔥 Editors: 
-Cursor                   26 hrs 11 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-auth                     18 hrs 12 mins      █████████████████░░░░░░░░   69.49 % 
-nantuck-bot              3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-cursor-test-repo         2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-pengeluaran-staging      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-pengeluaran              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-
-💻 Operating System: 
-Linux                    26 hrs 11 mins      █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C400%20hrs%203%20mins-blue)
 
 **I Mostly Code in TypeScript** 
 
@@ -101,7 +75,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiramitzu/Tiramitzu/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2025 18:40:33 UTC
+ Last Updated on 19/09/2025 18:40:01 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
