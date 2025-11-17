@@ -56,6 +56,33 @@
 <h3 align="center">WakaTime</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C507%20hrs%2012%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Go                       4 hrs 37 mins       █████████████████░░░░░░░░   66.35 % 
+SQL                      1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Makefile                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+
+🔥 Editors: 
+Cursor                   6 hrs 58 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+bumd                     6 hrs 3 mins        ██████████████████████░░░   86.80 % 
+frontend                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+auth                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+api                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+
+💻 Operating System: 
+Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -73,7 +100,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiramitzu/Tiramitzu/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 18:39:26 UTC
+ Last Updated on 17/11/2025 18:42:15 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
