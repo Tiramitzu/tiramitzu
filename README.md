@@ -82,7 +82,7 @@ Linux                    4 mins              ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               11 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
 Go                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
@@ -96,7 +96,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiramitzu/Tiramitzu/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2025 18:41:46 UTC
+ Last Updated on 28/12/2025 18:42:50 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
