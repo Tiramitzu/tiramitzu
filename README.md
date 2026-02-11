@@ -64,19 +64,16 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       9 mins              ██████████████████░░░░░░░   70.42 % 
-TypeScript               4 mins              ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pengeluaran              6 mins              ████████████░░░░░░░░░░░░░   47.83 % 
-frontend                 4 mins              ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-sipd-transaksi-belanja   3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +93,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiramitzu/Tiramitzu/main/assets/bar_graph.png)
 
 
- Last Updated on 10/02/2026 18:48:58 UTC
+ Last Updated on 11/02/2026 18:48:25 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
